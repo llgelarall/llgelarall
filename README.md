@@ -1,4 +1,4 @@
-# Hi, I'm Gelara! 👋
+# Hi, I'm Glara! 👋
 
 I am a dedicated **computer architecture researcher** with a passion for designing **high-performance** and **energy-efficient systems**. My technical expertise lies in **hardware design**, **bio-inspired computing**, **parallel computing**, and **Approximate Computing**. As a member of the **ICVLSI research group**, my work focuses on **approximate computing**, **hardware accelerator**.
 
