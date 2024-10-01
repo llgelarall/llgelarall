@@ -26,7 +26,7 @@ Through my [personal blog](https://gisink.com), I share insights on both **resea
 |------------------------|-------------------------------------------------------------------------|-------------------------------------|
 | Students and TAs       | Best practices for communicating with your TA to ensure effective and respectful interactions. | [Link](https://github.com/llgelarall/TA-Guidelines/blob/main/StudentsAndTAs.md) |
 | General Studying Materials        | Free study materials for undergraduate and graduate students| [Link](https://github.com/llgelarall/TA-Guidelines/blob/main/General-Material.md) |
-| Hardware Design        | Tailored materials for graduate hardware student | [In Progress](https://github.com/llgelarall/TA-Guidelines) |
+| Hardware Design        | Tailored materials for graduate hardware student | [Link](https://github.com/llgelarall/TA-Guidelines/blob/main/TailoredHWStd.md) |
 | Programming Resources   | Code snippets, tutorials, and helpful links to improve your coding skills. | [In Progress](https://github.com/llgelarall/TA-Guidelines/blob/main/General-Material.md) |
 | Exam Preparation        | Tips and practice questions to help you prepare for midterms and finals. | [In Progress](https://github.com/llgelarall/TA-Guidelines/blob/main/General-Material.md) |
 
