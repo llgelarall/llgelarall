@@ -7,9 +7,11 @@ Professionally, I am a dedicated **computer architecture researcher** with a pas
 In addition to my research, I am deeply committed to **education**. As a **teaching assistant**, I guide students through complex concepts, offer mentorship, and create resources that bridge the gap between **research** and **learning**. I’m passionate about making education more **accessible** and **engaging**, to build progressive community.
 
 
+
 Through my [personal blog](https://gisink.com), I share insights on both **research** and **education**, hoping to inspire others and contribute to the future of innovation and learning.
 
-☕ I'm a huge fan of fiction books, especially Harry Potter. In my free time, I love getting lost in a good book, and right now, my favorite author is Haruki Murakami—his storytelling is absolutely captivating. I'm also really into travel and culture documentaries. Lately, I've been really enjoying Home on Apple TV and The Reluctant Traveler. Besides that, I enjoy doing Hitlates (a mix of HIIT and Pilates) and driving, both of which help clear my mind and spark creative solutions.
+☕ I'm a huge fan of fiction books, especially Harry Potter. In my free time, I love getting lost in a good book, and right now, my favorite author is Haruki Murakami; his storytelling is captivating. I'm also really into travel and culture documentaries. Lately, I've enjoyed Home on Apple TV and The Reluctant Traveler. Besides that, I enjoy doing Hitlates (a mix of HIIT and Pilates) and driving, both of which help clear my mind and spark creative solutions.
+
 ---
 
 ## 🔭 About Me
