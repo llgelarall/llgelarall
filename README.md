@@ -1,6 +1,12 @@
 # Hi, I'm Glara! 👋
 
 Personally, my true calling is solving puzzles and problems that seem hard to solve. Frankly, I'm addicted to doing research and sharing it with others. **I see the beauty of doing research in the moments when you are confused and desperately looking for an answer to tackle a problem that has not been solved for a long time.** I'm addicted to the dopamine that solving the puzzle releases. Also, I love it when I share my thoughts with others, even those who are not experts in the area, and they bring up new questions and answers that make me think again. I enjoy this cycle, and I hope I can show you how stunning it is.
+My journey in research feels like the transformation Molana describes. Just as he speaks of revival and joy, solving problems and sharing ideas brings me the same sense of renewal. As he writes:
+
+مرده بُدم زنده شدم گریه بُدم خنده شدم —                                                                                                      I was dead, I came to life; I was crying, I turned into laughter.  
+دولت عشق آمد و من دولت پاینده شدم —                                                                                                                     The fortune of love arrived, and I became eternal.  
+تابش جان یافت دلم وا شد و بشکافت دلم —                                                                                                  My heart received the light of the soul, opened up, and broke free.  
+اطلس نو بافت دلم دشمن این ژنده شدم —                                                                                                          My heart wove a new fabric, and I became an enemy of the old.
 
 Professionally, I am a dedicated **computer architecture researcher** with a passion for designing **high-performance** and **energy-efficient systems**. My technical expertise lies in **hardware design**, **bio-inspired computing**, **parallel computing**, and **Approximate Computing**. As a member of the **ICVLSI research group**, my work focuses on **approximate computing**, **hardware accelerator**.
 
