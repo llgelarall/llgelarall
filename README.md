@@ -1,6 +1,7 @@
 # Hi, I'm Glara! 👋
 
 Personally, my true calling is solving puzzles and problems that seem hard to solve. With a cat who loves playing with the tiny pieces of puzzles playing with puzzles is impossible, thus I channel this passion into solving complex challenges in computer science. To me, computer as a puzzle is made up of incredible tiny pieces—ones, zeros, and logical gates—that together build supercomputers. What an astonishing history! Frankly, I'm addicted to doing research and sharing it with others. **I see the beauty of doing research in the moments when you are confused and desperately looking for an answer to tackle a problem that has not been solved for a long time.** I'm addicted to the dopamine that solving the puzzle releases. Also, I love it when I share my thoughts with others, even those who are not experts in the area, and they bring up new questions and answers that make me think again. I enjoy this cycle, and I hope I can show you how stunning it is.
+
 My journey in research feels like the transformation Molana describes. Just as he speaks of revival and joy, solving problems and sharing ideas brings me the same sense of renewal. As he writes:
 
 مرده بُدم زنده شدم گریه بُدم خنده شدم —                                                                                                      I was dead, I came to life; I was crying, I turned into laughter.  
