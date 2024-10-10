@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llgelarall&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&exclude_repo=TA-Guidelines,llgelarall,llgelarall.github.io&hide=javascript,html,TypeScript,CSS,GLSL,Astro,Makefile,Rust,Shell,Lua,Go,jupyter%20notebook)
+
 # Hi, I'm Glara! 👋
 
 Personally, my true calling is solving puzzles and problems that seem hard to solve. With a cat who loves playing with the tiny pieces of puzzles playing with puzzles is impossible, thus I channel this passion into solving complex challenges in computer science. To me, computer as a puzzle is made up of incredible tiny pieces—ones, zeros, and logical gates—that together build supercomputers. What an astonishing history! Frankly, I'm addicted to doing research and sharing it with others. **I see the beauty of doing research in the moments when you are confused and desperately looking for an answer to tackle a problem that has not been solved for a long time.** I'm addicted to the dopamine that solving the puzzle releases. Also, I love it when I share my thoughts with others, even those who are not experts in the area, and they bring up new questions and answers that make me think again. I enjoy this cycle, and I hope I can show you how stunning it is.
@@ -57,3 +59,5 @@ You can find the latest version of my CV here:
 Feel free to connect via [Gmail](mailto:jafaripouyanigelara@gmail.com)
 
 Thanks for visiting my profile! Let’s explore the world of **research** and **education** together. 🚀
+
+
