@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llgelarall&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&exclude_repo=TA-Guidelines,llgelarall,llgelarall.github.io&hide=javascript,html,TypeScript,CSS,GLSL,Astro,Makefile,Rust,Shell,Lua,Go,jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llgelarall&layout=compact&theme=radical&size_weight=0.1&count_weight=0.9&hide=javascript,html,TypeScript,SCSS,CSS,GLSL,Astro,Makefile,Rust,Shell,Lua,Go)
 
 # Hi, I'm Glara! 👋
 
