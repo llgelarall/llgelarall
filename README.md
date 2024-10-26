@@ -5,9 +5,21 @@
 
 # Hi, I'm Glara! 👋
 
+:exclamation: $${\color{Red} \textbf{Announcement}}$$ **Forming a CS Journal Group at Shahid Beheshti University!**
+
+---
+
+I'm excited to share that I've decided to start a CS journal group here at Shahid Beheshti University! My goal is to create a space where we can dive deep into cutting-edge research, share knowledge, and inspire one another in the field of computer science. I'm looking for folks who are passionate about research and eager to help establish and grow this group.
+
+If you're interested in being part of this journey, feel free to drop me an email or connect with me on campus.
+
+---
+
 $${\color{orange}Why Academia}$$[Link](https://www.youtube.com/watch?v=6Hpn4SAX0dI)
 
 $${\color{orange}Why Computer Architecture}$$[Link](https://www.youtube.com/watch?v=ziMRjDlLEwo&list=PL5Q2soXY2Zi-LfDdGgWyLcTSqzm6a26wD)
+
+---
 
 Personally, my true calling is solving puzzles and problems that seem hard to solve. With a cat who loves playing with the tiny pieces of puzzles playing with puzzles is impossible, thus I channel this passion into solving complex challenges in computer science. To me, computer as a puzzle is made up of incredible tiny pieces—ones, zeros, and logical gates—that together build supercomputers. What an astonishing history! Frankly, I'm addicted to doing research and sharing it with others. **I see the beauty of doing research in the moments when you are confused and desperately looking for an answer to tackle a problem that has not been solved for a long time.** I'm addicted to the dopamine that solving the puzzle releases. Also, I love it when I share my thoughts with others, even those who are not experts in the area, and they bring up new questions and answers that make me think again. I enjoy this cycle, and I hope I can show you how stunning it is.
 
