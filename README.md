@@ -5,15 +5,6 @@
 
 # Hi, I'm Glara! 👋
 
-:exclamation: $${\color{Red} \textbf{Announcement}}$$ **Forming a CS Journal Group at Shahid Beheshti University!**
-
----
-
-I'm excited to share that I've decided to start a CS journal group here at Shahid Beheshti University! My goal is to create a space where we can dive deep into cutting-edge research, share knowledge, and inspire one another in the field of computer science. I'm looking for folks who are passionate about research and eager to help establish and grow this group.
-
-If you're interested in being part of this journey, feel free to drop me an email or connect with me on campus.
-
----
 
 $${\color{orange}Why Academia}$$[Link](https://www.youtube.com/watch?v=6Hpn4SAX0dI)
 
@@ -52,6 +43,7 @@ Through my [personal blog](https://gisink.com), I share insights on both **resea
 | General Studying Materials        | Free study materials for undergraduate and graduate students| [Link](https://github.com/llgelarall/TA-Guidelines/blob/main/General-Material.md) |
 | Hardware Design        | Tailored materials for graduate hardware student | [Link](https://github.com/llgelarall/TA-Guidelines/blob/main/TailoredHWStd.md) |
 | Imprecise/Approximate Computing       | Recommended Papers on Imprecise/Approximate Computing | [Link](https://github.com/llgelarall/TA-Guidelines/blob/main/ImpreciseOrApproximateComputing.md) |
+| Brain-inspired Computing       | Recommended resources for starting jouney in brain-inspired computing | [Link](https://github.com/llgelarall/Inkable-substances/blob/main/Brain-inspired%20Computing/resources.md) |
 | Programming Resources   | Code snippets, tutorials, and helpful links to improve your coding skills. | [In Progress](https://github.com/llgelarall/TA-Guidelines/blob/main/General-Material.md) |
 | Exam Preparation        | Tips and practice questions to help you prepare for midterms and finals. | [In Progress](https://github.com/llgelarall/TA-Guidelines/blob/main/General-Material.md) |
 
