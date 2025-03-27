@@ -5,8 +5,9 @@
 
 # Hi, I'm Glara! 👋
 
-At 22, I heard my professor share a thought-provoking idea: we should be like ink. Our nature might not allow us to color the entire glass of water—the universe from the ink’s perspective—but we can still influence our immediate surroundings, gradually leaving our mark until, one day, the whole glass is transformed.
-I’m Gelara, an ink in the computer science academic community, passionate about making a lasting impact one stroke at a time.
+ At the age of 22, I overheard a professor propose a fascinating concept: we should be as flexible as ink. Our inherent limitations prevent us from changing the entire glass of water (the universe from the ink's perspective), but we can change the area immediately surrounding us and gradually alter it until it becomes completely different. 
+ 
+The aforementioned tale is the inspiration for GisInk; my name is Gelara, and I am an ink enthusiast with a strong desire to leave a lasting imprint on the field of computer science research.
 
 ---
 
