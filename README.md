@@ -5,6 +5,10 @@
 
 # Hi, I'm Glara! 👋
 
+At 22, I heard my professor share a thought-provoking idea: we should be like ink. Our nature might not allow us to color the entire glass of water—the universe from the ink’s perspective—but we can still influence our immediate surroundings, gradually leaving our mark until, one day, the whole glass is transformed.
+I’m Gelara, an ink in the computer science academic community, passionate about making a lasting impact one stroke at a time.
+
+---
 
 $${\color{orange}Why Academia}$$[Link](https://www.youtube.com/watch?v=6Hpn4SAX0dI)
 
