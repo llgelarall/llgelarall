@@ -33,7 +33,8 @@ Through my [personal blog](https://gisink.com), I share insights on both **resea
 
 ## 🔭 About Me
 
-- 🚀 I’m currently pursuing my Master’s in **Computer Architecture** at **Shahid Beheshti University**, Iran.
+- 🚀 I’m currently serving as a RA and TA in ICVLSI research group at **Shahid Beheshti University**, Iran.
+- 🚀 I graduated with a master’s in computer architecture on 3 March 2025 at Shahid Beheshti University, Iran.
 - 🚀 My research focuses on **Approximate Computing**, **hardware accelerators**, and creating **energy-efficient systems**.
 - 🚀 I am dedicated to **education**, mentoring students and curating study resources as a **teaching assistant**.
 - 🚀 I share technical and educational content on [GisInk.com](https://gisink.com) to help students and professionals alike.
